@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page Title</title>
+    <style>
+        h1 {
+            color: orange;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: lightyellow;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Melany Aroquipa Mamani</h1>
+<p>Soy Melany Aroquipa Mamani, natal de la ciudad de Arequipa. En el 2023 ingresé a la carrera de Administración de Negocios en la Universidad Católica San Pablo. En el primer semestre llevé cursos que me introdujeron a la vida universitaria y algunos cursos de carrera como:</p>
+
+<table>
+    <tr>
+        <th>Curso</th>
+        <th>Nombre del Profesor</th>
+        <th>LinkedIn</th>
+    </tr>
+    <tr>
+        <td>Economía General</td>
+        <td>Karlo Alfonso Lam Obregón</td>
+        <td><a href="https://acortar.link/e5hyEE">LinkedIn</a></td>
+    </tr>
+    <tr>
+        <td>Contabilidad para Administradores</td>
+        <td>Edgard Fredy Leiva Flores</td>
+        <td><a href="https://acortar.link/eZjgph">LinkedIn</a></td>
+    </tr>
+    <tr>
+        <td>Fundamentos de Administración</td>
+        <td>Sandra Juracy Gómez Rodríguez De Salinas</td>
+        <td><a href="https://acortar.link/cHeBMc">LinkedIn</a></td>
+    </tr>
+</table>
+
+<p>En mi segundo semestre llevé cursos que se relacionaban aún más con mi carrera, y logré desarrollar diferentes estrategias de marketing los cuales me sirvieron como base para desarrollar mis cursos de tercer semestre.</p>
+
+<table>
+    <tr>
+        <th>Curso</th>
+        <th>Nombre del Profesor</th>
+        <th>LinkedIn</th>
+    </tr>
+    <tr>
+        <td>Derecho Empresarial</td>
+        <td>Khaterine Lazo Gonzales</td>
+        <td>Sin LinkedIn</td>
+    </tr>
+    <tr>
+        <td>Pensamiento Crítico e Innovación</td>
+        <td>Ana Gómez Burns</td>
+        <td><a href="https://acortar.link/oqdnRz">LinkedIn</a></td>
+    </tr>
+    <tr>
+        <td>Fundamentos de Marketing</td>
+        <td>Sofía Estremadoyro</td>
+        <td><a href="https://acortar.link/2Ys5SU">LinkedIn</a></td>
+    </tr>
+</table>
+
+<p>Actualmente estoy cursando mi tercer semestre en el cual estoy adquiriendo habilidades para trabajar en equipo y estrategias para un buen marketing. En general los cursos que llevo son muy enriquecedores para mi desarrollo como futura administradora.</p>
+
+<table>
+    <tr>
+        <th>Curso</th>
+        <th>Nombre del Profesor</th>
+        <th>LinkedIn</th>
+    </tr>
+    <tr>
+        <td>Comportamiento del consumidor</td>
+        <td>Fabiola Postigo</td>
+        <td><a href="https://acortar.link/zDdxwR">LinkedIn</a></td>
+    </tr>
+    <tr>
+        <td>Análisis Financiero</td>
+        <td>Lelia Rubina</td>
+        <td><a href="https://acortar.link/B6yjy9">LinkedIn</a></td>
+    </tr>
+    <tr>
+        <td>Análisis de Datos</td>
+        <td>Ernesto Cuadros Vargas</td>
+        <td><a href="https://acortar.link/fjzBbi">LinkedIn</a></td>
+    </tr>
+    <tr>
+        <td>Cálculo en una Variable</td>
+        <td>Fredy Begazo Zegarra</td>
+        <td><a href="https://acortar.link/AeTeiG">LinkedIn</a></td>
+    </tr>
+    <tr>
+        <td>Desarrollo de Habilidades para el Trabajo en Equipo</td>
+        <td>Fabiola Trelles Throne</td>
+        <td><a href="https://acortar.link/iToMhB">LinkedIn</a></td>
+    </tr>
+    <tr>
+        <td>Introducción a la Filosofía</td>
+        <td>Lourdes Ponce Morales</td>
+        <td>Sin LinkedIn</td>
+    </tr>
+    <tr>
+        <td>Apreciación literaria</td>
+        <td>Patricia Carpio Romero</td>
+        <td><a href="https://acortar.link/iToMhB">LinkedIn</a></td>
+    </tr>
+</table>
+
+</body>
+</html>
